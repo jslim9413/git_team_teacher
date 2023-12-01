@@ -1,0 +1,7 @@
+team : Lions
+
+manager : JeongSeop
+
+members :
+- JinHo
+
