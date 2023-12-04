@@ -1,4 +1,4 @@
-team : Jaguars
+gteam : Jaguars
 
 manager : HyeonSeo
 
