@@ -1,0 +1,10 @@
+team : Jinsup
+
+manager : Jinsup
+
+coach : jason
+
+members :
+- Emilio
+- Jerome
+- Michael
